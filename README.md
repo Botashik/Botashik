@@ -16,7 +16,7 @@ I like finding weak spots in systems and learning how to protect them.
 ## 📂 Projects
 | Project | What it is |
 |---|---|
-| [CTI Investigation (team project)](⚠️ PASTE FULL REPO LINK HERE) | Threat intelligence investigation of a ransomware case. Team project for the *Introduction to Threat Hunting* course. **My part:** ⚠️ WRITE YOUR ROLE HERE |
+| [CTI Investigation (team project)] (https://github.com/ayanamilangley/CTI-Investigation-of-a-Ransomware-Attack-Chain) | Threat intelligence investigation of a ransomware case. Team project for the *Introduction to Threat Hunting* course. **My part:** ⚠️ WRITE YOUR ROLE HERE |
 | [Public-Wi-Fi-Security-Lab](https://github.com/Botashik/Public-Wi-Fi-Security-Lab) | Analyzed traffic on public Wi-Fi in a lab and found common risks |
 | [abaila](https://github.com/Botashik/abaila) | Demo app that warns users about scam calls |
 | [vpn-g-scrack-lab](https://github.com/Botashik/vpn-g-scrack-lab) | Controlled lab with VPN tools and automation |
